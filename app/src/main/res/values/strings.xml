@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareLocationAndPictures</string>
+    <string name="lattitude_longitude">Lattitude Longitude</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="click_on_the_icon_to_get_lattitude_longitude">Click on the icon to get Lattitude, Longitude</string>
+    <string name="click_on_the_icon_to_take_pictures_of_the_place">Click on the icon to take pictures of the place</string>
+</resources>
